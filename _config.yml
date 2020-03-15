@@ -1,1 +1,18 @@
 theme: jekyll-theme-minimal
+<!DOCTYPE html>
+<html>
+<head>
+<title>cool links B)</title>
+</head>
+<body>
+
+<h1>Here are some cool Links, feel free to check them out.</h1>
+<p><a href="page2.html">standard link</a></p>
+<p><a href="page3.html">child link</a></p>
+<p><a href="page4.html">tree link</a></p>
+<p><a href="page5.html">post apocalyptic link</a></p>    
+<p><a href="page6.html">zelda?</a></p>
+<p><a href="page7.html">!!!</a></p>
+<p><a href="page8.html">the coolest link</a></p>
+</body>
+</html>
